@@ -1,0 +1,7 @@
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+c:\users\acer\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.pdb
